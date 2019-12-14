@@ -1,0 +1,9 @@
+
+.vscode/launch.json
+roomimage/*
+userimage/*
+voice/*
+javascripts/config.js
+config/config.json
+config/dbconfig.js
+config/.ftpconfig
